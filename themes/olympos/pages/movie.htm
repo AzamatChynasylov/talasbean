@@ -1,0 +1,18 @@
+title = "movie"
+url = "/movie/:slug"
+is_hidden = 0
+
+[builderDetails]
+modelClass = "Watchlear\Movies\Models\Movie"
+identifierValue = "{{ :slug }}"
+modelKeyColumn = "slug"
+displayColumn = "name"
+notFoundMessage = "Record not found"
+
+[contactform]
+==
+<h1>Movie Page</h1>
+
+{% component 'builderDetails' %}
+
+{% component 'contactform' %}

@@ -1,0 +1,6 @@
+plugin:
+    name: 'watchlear.contact::lang.plugin.name'
+    description: 'watchlear.contact::lang.plugin.description'
+    author: watchlear
+    icon: oc-icon-envelope-o
+    homepage: ''

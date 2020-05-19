@@ -1,0 +1,12 @@
+list: $/watchlear/beans/models/bean/columns.yaml
+modelClass: Watchlear\Beans\Models\Bean
+title: Beans
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'watchlear/beans/beans/update/:id'

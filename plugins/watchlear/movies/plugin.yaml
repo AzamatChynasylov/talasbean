@@ -1,0 +1,20 @@
+plugin:
+    name: 'watchlear.movies::lang.plugin.name'
+    description: 'watchlear.movies::lang.plugin.description'
+    author: watchlear
+    icon: oc-icon-video-camera
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Movies
+        url: watchlear/movies/movies
+        icon: icon-video-camera
+        sideMenu:
+            side-menu-item:
+                label: Genres
+                url: watchlear/movies/genres
+                icon: icon-tags
+            side-menu-item2:
+                label: Actors
+                url: watchlear/movies/actors
+                icon: icon-group

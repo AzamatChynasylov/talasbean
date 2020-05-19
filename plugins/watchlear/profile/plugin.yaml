@@ -1,0 +1,6 @@
+plugin:
+    name: 'watchlear.profile::lang.plugin.name'
+    description: 'watchlear.profile::lang.plugin.description'
+    author: watchlear
+    icon: oc-icon-user
+    homepage: ''

@@ -1,0 +1,22 @@
+1589916423a:1:{s:9:"movie.htm";a:10:{s:8:"fileName";s:9:"movie.htm";s:7:"content";s:349:"title = "movie"
+url = "/movie/:slug"
+is_hidden = 0
+
+[builderDetails]
+modelClass = "Watchlear\Movies\Models\Movie"
+identifierValue = "{{ :slug }}"
+modelKeyColumn = "slug"
+displayColumn = "name"
+notFoundMessage = "Record not found"
+
+[contactform]
+==
+<h1>Movie Page</h1>
+
+{% component 'builderDetails' %}
+
+{% component 'contactform' %}";s:5:"mtime";i:1588507312;s:6:"markup";s:88:"<h1>Movie Page</h1>
+
+{% component 'builderDetails' %}
+
+{% component 'contactform' %}";s:4:"code";N;s:5:"title";s:5:"movie";s:3:"url";s:12:"/movie/:slug";s:9:"is_hidden";s:1:"0";s:14:"builderDetails";a:5:{s:10:"modelClass";s:29:"Watchlear\Movies\Models\Movie";s:15:"identifierValue";s:11:"{{ :slug }}";s:14:"modelKeyColumn";s:4:"slug";s:13:"displayColumn";s:4:"name";s:15:"notFoundMessage";s:16:"Record not found";}s:11:"contactform";a:0:{}}}

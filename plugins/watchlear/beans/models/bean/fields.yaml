@@ -1,0 +1,29 @@
+fields:
+    title:
+        label: Название
+        span: full
+        type: text
+    description:
+        label: Описание
+        size: ''
+        span: full
+        type: textarea
+    type:
+        label: 'Cорт фасоли или Процесс работы'
+        span: auto
+        showSearch: true
+        options:
+            - 'Сорт фасоли'
+            - 'Процесс работы'
+        type: dropdown
+    beanimage:
+        label: Картина
+        span: auto
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        imageWidth: '100'
+        imageHeight: '100'
+        type: fileupload

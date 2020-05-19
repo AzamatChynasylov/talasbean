@@ -1,0 +1,50 @@
+<form method="POST" enctype="multipart/form-data" action="{{url('add-actor')}}" accept-charset="UTF8">
+  
+  <input type="hidden" name="_handler" value="onSave">
+
+  {{form_token()}}
+  {{form_sessionkey()}}
+
+  <div class="row">
+          <div class="col-md-12">
+            <div class="form-group ">
+                
+                 <label for="name">Name </label>
+              <input type="text" id="name" name="name" class="form-control" placeholder="Name of Actor">
+              <p data-validate-for="name" class="help-block text-danger"></p> 
+              
+            </div>
+
+            
+            
+          </div>
+           <div class="col-md-12">
+            <div class="form-group ">
+                
+                 <label for="lastname">Last name</label>
+              <input type="text" id="lastname" name="lastname" class="form-control" placeholder="Lastname of Actor">
+              <p data-validate-for="lastname" class="help-block text-danger"></p> 
+            </div>
+
+            
+            
+          </div>
+            <div class="col-md-12">
+            <div class="form-group ">
+                
+              <label for="actorimage">Actor image</label>
+              <input type="file" id="actorimage" name="actorimage" class="form-control" placeholder="Actor Image">
+              
+            </div>
+
+            
+            
+          </div>
+        
+        <button type="submit" class="btn btn-custom btn-lg" >Save Actor</button>
+  </div>
+</form>
+
+
+
+ 

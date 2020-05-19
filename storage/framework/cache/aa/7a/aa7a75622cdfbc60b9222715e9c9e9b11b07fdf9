@@ -1,0 +1,43 @@
+1589916423a:1:{s:10:"header.htm";a:5:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:1457:"<nav id="menu" class="navbar navbar-default navbar-fixed-top">
+  <div class="container"> 
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Переключение</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <a class="navbar-brand page-scroll" href="/#page-top">TalasBean</a> </div>
+    
+  
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="/#about" class="page-scroll">О нас</a></li>
+        <li><a href="/#services" class="page-scroll">Наши услуги</a></li>
+        <li><a href="/#portfolio" class="page-scroll">Наша продукция</a></li>
+        <li><a href="/#testimonials" class="page-scroll">Информация</a></li>
+        <li><a href="/#contact" class="page-scroll">Контакты</a></li>
+        <li><a href="#callback" class="callbackh open-popup-link" data-form="Заказать обратный звонок: Верхняя" data-text="Заказать звонок">Заказать обратный звонок</a></li>
+      </ul>
+    </div>
+    <!-- /.navbar-collapse --> 
+  </div>
+  <!-- /.container-fluid --> 
+</nav>";s:5:"mtime";i:1589360122;s:6:"markup";s:1457:"<nav id="menu" class="navbar navbar-default navbar-fixed-top">
+  <div class="container"> 
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Переключение</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <a class="navbar-brand page-scroll" href="/#page-top">TalasBean</a> </div>
+    
+  
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="/#about" class="page-scroll">О нас</a></li>
+        <li><a href="/#services" class="page-scroll">Наши услуги</a></li>
+        <li><a href="/#portfolio" class="page-scroll">Наша продукция</a></li>
+        <li><a href="/#testimonials" class="page-scroll">Информация</a></li>
+        <li><a href="/#contact" class="page-scroll">Контакты</a></li>
+        <li><a href="#callback" class="callbackh open-popup-link" data-form="Заказать обратный звонок: Верхняя" data-text="Заказать звонок">Заказать обратный звонок</a></li>
+      </ul>
+    </div>
+    <!-- /.navbar-collapse --> 
+  </div>
+  <!-- /.container-fluid --> 
+</nav>";s:4:"code";N;}}

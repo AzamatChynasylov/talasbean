@@ -1,0 +1,16 @@
+title = "Movies"
+url = "/movies"
+is_hidden = 0
+
+[builderList]
+modelClass = "Watchlear\Movies\Models\Movie"
+scope = "-"
+scopeValue = "{{ :scope }}"
+displayColumn = "name"
+noRecordsMessage = "No records found"
+detailsPage = "movie"
+detailsKeyColumn = "slug"
+detailsUrlParameter = "slug"
+pageNumber = "{{ :page }}"
+==
+{% component 'builderList' %}

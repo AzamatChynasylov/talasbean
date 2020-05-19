@@ -1,0 +1,10 @@
+name: Beans
+form: $/watchlear/beans/models/bean/fields.yaml
+modelClass: Watchlear\Beans\Models\Bean
+defaultRedirect: watchlear/beans/beans
+create:
+    redirect: 'watchlear/beans/beans/update/:id'
+    redirectClose: watchlear/beans/beans
+update:
+    redirect: watchlear/beans/beans
+    redirectClose: watchlear/beans/beans

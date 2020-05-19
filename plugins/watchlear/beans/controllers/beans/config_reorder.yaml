@@ -1,0 +1,4 @@
+title: Beans
+modelClass: Watchlear\Beans\Models\Bean
+toolbar:
+    buttons: reorder_toolbar

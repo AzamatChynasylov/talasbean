@@ -1,0 +1,11 @@
+plugin:
+    name: 'watchlear.beans::lang.plugin.name'
+    description: 'watchlear.beans::lang.plugin.description'
+    author: watchlear
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Beans
+        url: watchlear/beans/beans
+        icon: icon-life-ring

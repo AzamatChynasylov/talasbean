@@ -1,0 +1,12 @@
+**/node_modules
+/node_modules/
+/.git/
+/**/Thumbs.db
+/**/*.DS_Store
+/themes/azamat/
+/themes/azamat-test/
+/themes/demo/
+/themes/mytheme/
+/themes/talasbean/
+**/vendor
+/vendor/

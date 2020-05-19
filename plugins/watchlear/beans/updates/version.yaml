@@ -1,0 +1,5 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table watchlear_beans_'
+    - builder_table_create_watchlear_beans_.php
